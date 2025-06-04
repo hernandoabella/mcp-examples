@@ -15,12 +15,12 @@ pip install -r requirements.txt
 
 # Run the server
 uvicorn app.main:app --reload
+```
 
-
-Sample Request (using curl or Postman):
+### Sample Request (using curl or Postman):
 POST http://127.0.0.1:8000/mcp/clinical-advice
 
-JSON body:
+### JSON body:
 
 ```json
 {
@@ -29,3 +29,5 @@ JSON body:
   "patient_id": "patient_001"
 }
 ```
+
+![image](https://github.com/user-attachments/assets/3bf02e6e-6d6d-4824-bf46-9730760e1f7c)

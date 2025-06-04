@@ -4,7 +4,7 @@ This repository contains a curated collection of practical case studies demonstr
 ### Using MCP for Healthcare AI Tooling
 - **Use Case:** AI-assisted clinical decisions
 - **Highlights:** Multi-API integration, privacy & compliance, EHR interoperability
-[Code Example]()
+[Code Example](./mcp-healthcare/)
 
 ### Financial Advisor Assistant
 - **Use Case:** Personal finance insights from bank APIs + investment tools

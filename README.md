@@ -10,7 +10,7 @@ This repository contains a curated collection of practical case studies demonstr
 ### Financial Advisor Assistant
 - **Use Case:** Personal finance insights from bank APIs + investment tools
 - **Highlights:** Real-time data aggregation, context-aware financial summaries
-[Code Example]()
+[Code Example](./mcp-financial-advisor/)
 
 ### Legal Research Copilot
 - **Use Case:** Automating legal document lookup, summarization, and citation

@@ -1,5 +1,5 @@
-# MCP (Model Context Protocol) Working Examples
-This repository contains a curated collection of practical case studies that demonstrate how to utilize the Model Context Protocol (MCP) to develop powerful, tool-augmented AI systems.
+# MCP Examples
+This is a curated collection of practical case studies that demonstrate how to utilize the Model Context Protocol (MCP) to develop powerful, tool-augmented AI systems.
 
 ### Using MCP for Healthcare AI Tooling
 - **Use Case:** AI-assisted clinical decisions
